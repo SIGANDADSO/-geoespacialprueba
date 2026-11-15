@@ -2,7 +2,6 @@
 
 """Tests for `geoespacialprueba` package."""
 
-
 import unittest
 
 from geoespacialprueba import geoespacialprueba
