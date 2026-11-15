@@ -30,4 +30,3 @@ repos:
       rev: 0.9.1
       hooks:
           - id: nbstripout
-#ejemplo para usar en el repositorio de pre-commit
