@@ -1,8 +1,9 @@
 site_name: geoespacialprueba
 site_description: Python Boilerplate contains all the boilerplate you need to create a Python package.
 site_author: SIGANDADSO
-site_url: https://SIGANDADSO.github.io/geoespacialprueba
-repo_url: https://github.com/SIGANDADSO/geoespacialprueba
+site_url: https://SIGANDADSO.github.io/-geoespacialprueba
+repo_url: https://github.com
+repo_name: SIGANDADSO/-geoespacialprueba
 
 copyright: "Copyright &copy; 2024 - 2024 Carlos Arrieta"
 
@@ -78,9 +79,10 @@ nav:
     - Contributing: contributing.md
     - FAQ: faq.md
     - Changelog: changelog.md
-    - Report Issues: https://github.com/SIGANDADSO/geoespacialprueba/issues
+    - Report Issues: https://github.com/issues
     - Examples:
         - examples/intro.ipynb
     - API Reference:
           - geoespacialprueba module: geoespacialprueba.md
           - common module: common.md
+
