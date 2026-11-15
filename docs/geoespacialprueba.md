@@ -1,4 +1,0 @@
-
-# geoespacialprueba module
-
-::: geoespacialprueba.geoespacialprueba
