@@ -1,6 +1,6 @@
 # geoespacialprueba
 
-[![PyPI version](https://img.shields.io/pypi/v/geoespacialprueba.svg)](https://python.org)
+[![PyPI version](https://img.shields.io/pypi/v/geoespacialprueba.svg)](https://pypi.org/project/geoespacialprueba/)
 
 **Python Boilerplate contains all the boilerplate you need to create a Python package.**
 
