@@ -8,3 +8,14 @@
 -   Documentation: https://SIGANDADSO.github.io/-geoespacialprueba
 
 ## Features
+
+-   Create interactive map
+-   Process geospacial data
+
+## Usage
+
+
+```` python
+import geoespacialprueba
+import o
+````
