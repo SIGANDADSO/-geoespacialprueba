@@ -3,7 +3,6 @@ __pycache__/
 private/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 
@@ -105,3 +104,4 @@ ENV/
 
 # IDE settings
 .vscode/
+prueba.txt
